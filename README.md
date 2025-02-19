@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL programs. The bug involves incorrect loop termination in a PERFORM...VARYING statement leading to unintended infinite loops. The solution provides corrected COBOL code and explanations for better understanding.
